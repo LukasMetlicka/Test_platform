@@ -4,3 +4,20 @@
 .standing_right {
 	background-image: url('Sprite/positions/scott_right-standing.png');
 }
+.running_left1 {
+	background-image: url('Sprite/positions/scott_left-run1.png');
+}
+.running_left2 {
+	background-image: url('Sprite/positions/scott_left-run2.png');
+}
+.running_right1 {
+	background-image: url('Sprite/positions/scott_right-run1.png');
+}
+.running_right2 {
+	background-image: url('Sprite/positions/scott_right-run2.png');
+}
+.scott {
+	background-color: black;
+	height: 100px;
+	width: 100px;
+}

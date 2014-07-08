@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
-	<head> 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
-		<link rel="text/css" href="style/style.css">
-		<link rel="text/javascript" href="script.js">
+	<head>
+		<script src="jQuery2.1.1.js"></script>
+		<link rel="stylesheet" href="jQueryUI/jquery-ui.min.css">
+		<script src="jQueryUI/external/jquery/jquery.js"></script>
+		<script src="JQueryUI/jquery-ui.min.js"></script> 
+		<link type="text/css" rel="stylesheet" href="style/style.css">
+		<script type="text/javascript" src="script.js"></script>
 		<?php require('logic.php') ?>
 	</head>
 	
